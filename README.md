@@ -25,7 +25,7 @@
 ## How to use
 
 * Please download and install [AutoHotkey v.2.0](https://www.autohotkey.com) before use
-* Download latest script [release](https://github.com/JohnyKam/sorcerer-chain-lightning/releases)
+* Download latest script [Release](https://github.com/JohnyKam/sorcerer-chain-lightning/releases) (skip beta [Pre-release](https://github.com/JohnyKam/sorcerer-chain-lightning/releases) - they are used for tests)
 * Launch script file. It will run in background.
 * In Diablo IV set secondary key binds for numpad keys
   * skill 1: numpad 1
