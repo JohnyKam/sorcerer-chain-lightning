@@ -20,7 +20,7 @@
 ## Key features
 
 * Simplified playstyle
-* Cast ?? (don't know yet :-) )
+* Cast Unstable Currents together with Ice Blades and Ice Armor
 
 ## How to use
 
@@ -33,7 +33,11 @@
   * skill 3 --> numpad 3
   * skill 4 --> numpad 4
 
-* In Diablo IV on your Sorcerer, assign ? to skill ? and ? to skill ?
+* In Diablo IV on your Sorcerer, assign:
+  * Unstable Currents to skill 1,
+  * Ice Blades to skill 2,
+  * Teleport to skill 3,
+  * Ice Armor to skill 4
 
 ## License
 

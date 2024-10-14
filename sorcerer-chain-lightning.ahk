@@ -16,10 +16,31 @@ Key4 := "Numpad4"
 ; Key2 - ? and ?
 2::
 {
+    RandomTimeDelay := Random(50, 100)
 
+    OutputDebug("Unstable Currents " RandomTimeDelay)
+    Send "{" Key1 "}"
+    Sleep RandomTimeDelay
+
+    RandomTimeDelay := Random(50, 100)
+
+    OutputDebug("Ice Blades " RandomTimeDelay)
+    Send "{" Key2 "}"
+    Sleep RandomTimeDelay
+
+    RandomTimeDelay := Random(50, 100)
+
+    OutputDebug("Ice Armor " RandomTimeDelay)
+    Send "{" Key4 "}"
+    Sleep RandomTimeDelay
 }
 
 ; Key3 - ? and ?
 {
+    RandomTimeDelay := Random(50, 100)
+
+    OutputDebug("Teleport " RandomTimeDelay)
+    Send "{" Key3 "}"
+    Sleep RandomTimeDelay
 
 }
