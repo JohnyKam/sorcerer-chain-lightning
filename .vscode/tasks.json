@@ -6,7 +6,26 @@
         {
             "label": "Pull repository and update submodules",
             "type": "shell",
-            "command": "git pull && git submodule update --init --recursive"
+            "dependsOn": [
+                "Git pull repository",
+                "Git submodule update"
+            ],
+            "dependsOrder": "sequence"
+        },
+        {
+            "label": "Git pull repository",
+            "type": "shell",
+            "command": [
+                "git pull",
+            ]
+        },
+        {
+            "label": "Git submodule update",
+            "type": "shell",
+            "command": [
+                "git submodule update --init --recursive",
+            ]
         }
+
     ]
 }
