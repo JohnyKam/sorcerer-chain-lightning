@@ -28,10 +28,10 @@
 * Download latest script [Release](https://github.com/JohnyKam/sorcerer-chain-lightning/releases) (skip beta [Pre-release](https://github.com/JohnyKam/sorcerer-chain-lightning/releases) - they are used for tests)
 * Launch script file. It will run in background.
 * In Diablo IV set secondary key binds for numpad keys
-  * skill 1: numpad 1
-  * skill 2: numpad 2
-  * skill 3: numpad 3
-  * skill 4: numpad 4
+  * skill 1 --> numpad 1
+  * skill 2 --> numpad 2
+  * skill 3 --> numpad 3
+  * skill 4 --> numpad 4
 
 * In Diablo IV on your Sorcerer, assign ? to skill ? and ? to skill ?
 
